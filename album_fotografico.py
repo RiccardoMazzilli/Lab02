@@ -59,6 +59,7 @@ def cerca_foto(album, codice):
     # TODO
 
 
+
 def elenco_foto_anno_per_titolo(album, anno):
     """Ordina i titoli delle foto di un dato anno in ordine alfabetico"""
     # TODO
